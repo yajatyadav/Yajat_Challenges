@@ -36,12 +36,12 @@ public class Matrix {
 
 
     // declare and initialize a matrix for a keypad
-    static int[][] keypad() {
+    public static int[][] keypad() {
         return new int[][]{ { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 }, {-1, 0, -1} };
     }
 
     // declare and initialize a random length arrays
-    static int[][] numbers() {
+    public static int[][] numbers() {
         return new int[][]{ { 0, 1 },
                 { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 },
                 { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 } };
