@@ -35,3 +35,28 @@ try {
             System.out.println("Please enter a choice between 1 and " + menu_items.length);
         }
 ```
+
+In the second challenge (IntByReference), I created a swapper method. Since each integer is a member of an object, i used getter and setter methods to compare the two variables and assign new values to them. I used a temp variable to perform the switch between the two values. I also overrode the toString() method to display the integer value instead of the object's memory address.
+
+``` java
+public int getvalue(){
+        return value;
+    }
+
+    public void setvalue(int a){
+        value = a;
+    }
+
+    public void swapToLowHighOrder(IntByReference num){
+        if (num.getvalue() < value){
+            int temp = num.getvalue();
+            num.setvalue(value);
+            value = temp;
+        }
+    }
+
+    public String toString(){
+        return Integer.toString(value);
+    }
+```
+
