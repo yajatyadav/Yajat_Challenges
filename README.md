@@ -19,7 +19,7 @@
   - Inheritance: super() constructor, overriding
 
 
-# Data Structurs Work
+# Data Structures Work
 
 Tech Talk 0:
 - Link to Repl: https://replit.com/@YajatYadav/Yajattri2challenges#Main.java
