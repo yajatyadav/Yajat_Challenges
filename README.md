@@ -10,4 +10,10 @@
 - In addition, I will prep for the AP exam by going throuh AP classroom's unit videos, quizzes, as well as full-length MCs and FRQs
 - I will also prepare by taking the concepts I learned, such as using arrays and recursion, and implement hem in PBL
 - Concepts I will focus on:
-- - 1
+  - Recursion
+  - Iteration
+  - 2D Arrays
+  - Late-binding
+  - Polymorphism
+  - Constructing a class: constructors, getters, setters
+  - Inheritance: super() constructor, overriding
