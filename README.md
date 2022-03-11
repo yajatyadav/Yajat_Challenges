@@ -17,3 +17,21 @@
   - Polymorphism
   - Constructing a class: constructors, getters, setters
   - Inheritance: super() constructor, overriding
+
+
+# Data Structurs Work
+
+Tech Talk 0:
+- Link to Repl: https://replit.com/@YajatYadav/Yajattri2challenges#Main.java
+- Link to code on Github:https://github.com/yajatyadav/Yajat_Challenges/tree/master/src/com/company 
+
+In the first challenge, I learned how to use try-catch to handle different types of exceptions. I used a String array to create a dynamic menu. I handled two exceptions to ensure that the user enters a number and that it is within bounds, as seen below: 
+``` java
+try {
+            System.out.println(menu_items[Integer.parseInt(input)-1]);
+        } catch (NumberFormatException e) {
+            System.out.println("Make sure to enter a number as your choice!");
+        }catch (ArrayIndexOutOfBoundsException a){
+            System.out.println("Please enter a choice between 1 and " + menu_items.length);
+        }
+```
