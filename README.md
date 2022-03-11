@@ -60,4 +60,27 @@ public int getvalue(){
     }
 ```
 
-In the third challenge, 
+In the third challenge, I practiced creating a custom toString() method to display a formatted string. My toString method consisted of two for loops: one traversed a 2D array forward (left-to-right, top-to-bottom) and one did so backwards (right-to-left, bottom-to-top). I also used methods to convert int to hexadecmial and used conditionals to format the numpad correctly. 
+
+``` java
+for(int i = 0; i < matrix.length; i++){
+            for (int j = 0; j < matrix[i].length; j++){
+                if(matrix[i][j] < 0){output += "  ";}
+                else{output += Integer.toHexString(matrix[i][j]) + " ";}
+            }
+            output += "\n";
+    }
+        output += "\n\n";
+
+        for (int a = matrix.length-1; a >= 0; a--){
+            for (int b = matrix[a].length-1; b >= 0; b--){
+                if(matrix[a][b]<0){output += "  ";}
+                else{output += Integer.toHexString(matrix[a][b]) + " ";}
+            }
+            output += "\n";
+        }
+
+        return output;
+    }
+    
+ ```
