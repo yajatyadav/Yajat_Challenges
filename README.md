@@ -1,5 +1,7 @@
 # Yajat Challenges for Trimester 2
 
+# Review Ticket (Crossover Grading by Charlie): https://github.com/yajatyadav/Yajat_Challenges/issues/1#issuecomment-1067075425
+
 # Navigating Notes and Plans for Each Tech Talk
 - For each tech talk, I will keep notes in a running journal
 - I will also preview each tech talk by reading through it once so that I am prepared to ask any questions I might have
