@@ -23,6 +23,9 @@
 
 # Data Structures Work
 
+Tech Talk 1: 
+- Link to code: https://github.com/yajatyadav/Yajat_Challenges/tree/master/src/com/company/TT1_all
+
 Tech Talk 0:
 - Link to Repl: https://replit.com/@YajatYadav/Yajattri2challenges#Main.java
 - Link to code on Github:https://github.com/yajatyadav/Yajat_Challenges/tree/master/src/com/company 
