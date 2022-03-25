@@ -96,7 +96,9 @@ for(int i = 0; i < matrix.length; i++){
     }
     
  ```
-
+# Challenge 2
+- Link to Repl: https://replit.com/@YajatYadav/Yajattri2challenges#Main.java
+- Link to Code: https://github.com/yajatyadav/Yajat_Challenges/blob/master/src/com/company/TT2/Calculator.java
 **Tech Talk 2 Notes**
 - compute rmath: strings converted to Reverse Polish Notation using Shunting-yard algorithm to deal with order of operations
 
