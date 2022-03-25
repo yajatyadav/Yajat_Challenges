@@ -1,6 +1,8 @@
 # Yajat Challenges for Trimester 2
 
-[Link to Review Ticket (Crossover Grading by Charlie)](https://github.com/yajatyadav/Yajat_Challenges/issues/1#issuecomment-1067075425)
+[Review Ticket 1 (Crossover Grading by Kevin)](https://github.com/yajatyadav/Yajat_Challenges/issues/2)
+
+[Review Ticket 0 (Crossover Grading by Charlie)](https://github.com/yajatyadav/Yajat_Challenges/issues/1#issuecomment-1067075425)
 
 # Navigating Notes and Plans for Each Tech Talk
 - For each tech talk, I will keep notes in a running journal
@@ -22,6 +24,14 @@
 
 
 # Data Structures Work
+
+Tech Talk 1: 
+- Link to code: https://github.com/yajatyadav/Yajat_Challenges/tree/master/src/com/company/TT1_all
+- T is the iterator variable. Iterators are used to retrieve elements one by one. Every class that implements Iterable interface appropriately, can be used in the enhanced For loop (for-each loop). The need to implement the Iterator interface arises while designing custom data structures.
+- a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
+- Advantages over arrays 
+1) Dynamic size 
+2) Ease of insertion/deletion
 
 Tech Talk 0:
 - Link to Repl: https://replit.com/@YajatYadav/Yajattri2challenges#Main.java
