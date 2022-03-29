@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Yajat Challenges for Trimester 2
 
 [Review Ticket 2 (Crossover Grading by Nick)](https://github.com/yajatyadav/Yajat_Challenges/issues/3)
