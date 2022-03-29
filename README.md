@@ -1,5 +1,7 @@
 # Yajat Challenges for Trimester 2
 
+[Review Ticket 2 (Crossover Grading by Nick)] ()
+
 [Review Ticket 1 (Crossover Grading by Kevin)](https://github.com/yajatyadav/Yajat_Challenges/issues/2)
 
 [Review Ticket 0 (Crossover Grading by Charlie)](https://github.com/yajatyadav/Yajat_Challenges/issues/1#issuecomment-1067075425)
