@@ -1,3 +1,4 @@
+{% include navigation.html %}
 # Sorts
 - This week I learned how to use a variety of sort algorithms
 - I also implemented sorting in my custom implementation of a queue
